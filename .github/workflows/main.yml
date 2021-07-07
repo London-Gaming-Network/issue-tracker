@@ -5,7 +5,7 @@ on:
   issues:
     types: [opened]
 env:
-  MY_GITHUB_TOKEN: ${{ secrets.TOKEN }}
+  MY_GITHUB_TOKEN: ${{ secrets.SECRET_KEY }}
 
 jobs:
   assign_one_project:

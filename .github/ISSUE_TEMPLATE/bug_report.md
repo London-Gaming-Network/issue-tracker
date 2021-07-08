@@ -6,16 +6,16 @@ labels: ''
 assignees: ''
 ---
 
-**Describe the issue you're facing**
+**What Is The Issue?**
 
-**Steps to reproduce**
+**How Do You Reproduce This Error**
 
-**Expected behavior**
+**What Is Meant To Happen**
 
 **Screenshots/Video**
 
 **Additional context**
 
-**Any Texture Packs (if so list)**
+**Any Modified Game Fies?, Graphic Pack, Sound Packs?**
 
-**Perm ID**
+**Perm ID/Steam HEX**

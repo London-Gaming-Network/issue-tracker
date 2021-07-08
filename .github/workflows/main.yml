@@ -17,4 +17,4 @@ jobs:
       if: github.event.action == 'opened'
       with:
         project: 'https://github.com/orgs/London-Gaming-Network/projects/1'
-        column_name: 'New Issues'
+        column_name: 'Needs Review'
